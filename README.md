@@ -1,3 +1,5 @@
+KI_Exam02_CTH_TimeControlFps
+장르 : FPS
 주제
   - Super Hot과 비슷한 비동작 시 시간이 느려지는 FPS
 
